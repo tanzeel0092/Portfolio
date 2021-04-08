@@ -7,8 +7,8 @@ This portfolio is a small project I did using HTML / CSS / and bootstrap. I will
 
 ## Technolgoies used
 
-*HTML
-*CSS
+**HTML**
+**CSS**
 
 ## Installation
 
