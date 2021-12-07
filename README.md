@@ -7,8 +7,8 @@ This portfolio is a small project I did using HTML / CSS / and bootstrap. I will
 
 ## Technolgoies used
 
-*HTML
-*CSS
+**HTML**
+**CSS**
 
 ## Installation
 
@@ -20,3 +20,5 @@ Use this template to build your own portfolio
 
 
 
+# Twitter Clone
+https://twitter-clone786.herokuapp.com/
