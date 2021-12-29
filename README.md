@@ -6,7 +6,7 @@ This portfolio is a small project I did using HTML / CSS / and bootstrap. I will
 [Live Heroku Deployment](https://rtportfolio786.herokuapp.com/) Click Here
 
 
-[Screen Shot 2021-12-29 at 12 27 38 PM](https://user-images.githubusercontent.com/77412757/147700960-73283893-c9ba-40ce-8593-bdbe40d51e41.png)
+![Screen Shot 2021-12-29 at 12 27 38 PM](https://user-images.githubusercontent.com/77412757/147700960-73283893-c9ba-40ce-8593-bdbe40d51e41.png)
 
 
 ## Technolgoies used
