@@ -24,5 +24,4 @@ Use this template to build your own portfolio
 
 
 
-# Twitter Clone
-https://twitter-clone786.herokuapp.com/
+
