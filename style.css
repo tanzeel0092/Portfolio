@@ -46,8 +46,9 @@ ABOUT
 
 #about img{
     border-radius: 50%;
-    width: 120px;
+    width: 124px;
     margin-bottom: 10px;
+    height: 130px;
 }
 
 #about .name{
