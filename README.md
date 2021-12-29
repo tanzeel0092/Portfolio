@@ -1,9 +1,13 @@
 # Portfolio
 
 This portfolio is a small project I did using HTML / CSS / and bootstrap. I will be using this to show case my projects. 
-[Live Heroku Deployment](https://rtportfolio786.herokuapp.com/)
 
-[Screenshot](![Screen Shot 2021-04-04 at 2 51 49 PM](https://user-images.githubusercontent.com/77412757/113522460-68ec2f80-9555-11eb-8da7-575e50dca5ff.png)
+
+[Live Heroku Deployment](https://rtportfolio786.herokuapp.com/) Click Here
+
+
+[Screen Shot 2021-12-29 at 12 27 38 PM](https://user-images.githubusercontent.com/77412757/147700960-73283893-c9ba-40ce-8593-bdbe40d51e41.png)
+
 
 ## Technolgoies used
 
